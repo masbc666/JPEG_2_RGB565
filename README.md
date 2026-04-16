@@ -3,6 +3,11 @@ JPG 2 RGB565 Converter
 
 A Python program to convert JPG images to RGB565 format uint16_t arrays for embedded development.
 
+Download this Program:
+```
+git clone https://github.com/masbc666/JPEG_2_RGB565
+```
+
 Requirements
 ------------
 - Python 3.6+
@@ -121,10 +126,17 @@ License
 -------
 Free to use and modify for any purpose.
 
+
+
 JPG RGB565数组转换器
 ======================
 
 一个将 JPG 图像转换为 RGB565 格式 uint16_t 数组的 Python 程序，适用于嵌入式开发。
+
+下载这个程序:
+```
+git clone https://github.com/masbc666/JPEG_2_RGB565
+```
 
 要求
 ----
